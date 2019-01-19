@@ -15,4 +15,7 @@ Coordinate Handouts
 - Landscape Handout based on 500x700
 - "Full Screen Monitor" Handout
 
+Reference to Screen Size Algorithm
+
+
 ---
