@@ -16,6 +16,7 @@ Coordinate Handouts
 - "Full Screen Monitor" Handout
 
 Reference to Screen Size Algorithm
+- https://github.com/QEHS-ComputerScience/Monitor-Geometry-Algorithm
 
 
 ---
